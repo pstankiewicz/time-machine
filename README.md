@@ -58,7 +58,11 @@ Przeniosłeś się w czasie, więc do dyspozycji masz komputery z epoki, a bę
 * Amstrad CPC 464/664/6128 (kaseta/dyskietka)
 * MSX (kaseta/dyskietka)
 
-Możesz użyć dowolnych narzędzi developmentu - nawet współczesnych IDE (nie dam rady tego sprawdzić i tak), ale kod będzie sprawdzany na prawdziwych maszynach. Język programowania dowolny (w tamtych czasach pythona nie było, a najbardziej rozpowszechniony wśród użytkowników tych komputerów był BASIC).
+Możesz użyć dowolnych narzędzi developmentu - nawet współczesnych IDE (nie dam rady tego sprawdzić i tak), ale kod będzie sprawdzany na prawdziwych maszynach.
+
+Crossdev nie jest dozwolony - to już sprawdzę w taki sposób, że rozwiązania będę wklepywał/wczytywał i kompilował/interpretował na prawdziwym sprzęcie.
+
+Język programowania dowolny (w tamtych czasach pythona nie było, a najbardziej rozpowszechniony wśród użytkowników tych komputerów był BASIC).
 
 Oprócz BASIC'a ówczesne komputery uruchamiały inne języki np.: pascal, forth, logo, wielu programistów pisało również w assemblerze :).
 
@@ -67,3 +71,9 @@ I najważniejsze - baw się dobrze :).
 ## Nagrody
 
 Jak zwykle nagrody to niespodzianki, ale znacie mnie - jestem w stanie wymyślić coś fajnego i nietuzinkowego.
+
+## Wymogi formalne
+
+Każde zgłoszenie musi posiadać kod (oczywiste) oraz uproszczoną instrukcję uruchomienia (np. użyte kompilatory lub interpretery, wytyczne dotyczące uruchamiania itp.).
+
+Każde zgłoszenie musi być podpisane.
